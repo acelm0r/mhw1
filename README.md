@@ -1,2 +1,4 @@
 # mhw1
-Mini Homework 1, corso Web Programming UniCT
+Pagina statica scritta in HTML + CSS per il corso di Web Programming.
+
+## Parte del CSS è pensato per dispositivi mobili (max width 500px)
